@@ -1,0 +1,5 @@
+export const UPDATE_DATA = 'UPDATE_DATA'
+export const STOP_AUDIO = 'STOP_AUDIO'
+export const START_AUDIO = 'START_AUDIO'
+
+export const UPDATE_VIZUALIZER = 'UPDATE_VIZUALIZER'

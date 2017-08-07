@@ -9,8 +9,7 @@ class App extends Component {
     render() {
         return (
             <MainPage>
-                <p>Welcome to React</p>
-                <Vizualisation width="500" height="400" />
+                <Vizualisation width="1000" height="700" />
             </MainPage>
         )
     }
